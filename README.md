@@ -28,6 +28,5 @@ Edit task → click "Edit", change text, press OK
 Delete task → click "Delete"
 
 ouput
-<img width="214" height="99" alt="Screenshot 2025-09-10 195632" src="https://github.com/user-attachments/assets/20a3064c-cc35-42d7-9858-b55a05f86ccf" />
-<img width="489" height="172" alt="Screenshot 2025-09-10 195545" src="https://github.com/user-attachments/assets/72412f54-dfb8-41d6-9f20-59701dd90bd1" />
-
+<img width="214" height="99" alt="Screenshot 2025-09-10 195632" src="https://github.com/user-attachments/assets/e4be9d6a-5c99-4445-9cf0-d4a2ac585a97" />
+<img width="489" height="172" alt="Screenshot 2025-09-10 195545" src="https://github.com/user-attachments/assets/bf15f076-9c59-4511-8a1a-b6e0891a13a8" />
