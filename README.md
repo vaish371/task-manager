@@ -28,6 +28,4 @@ Edit task → click "Edit", change text, press OK
 Delete task → click "Delete"
 
 ouput
-<img width="125" height="71" alt="image" src="https://github.com/user-attachments/assets/e22ebebc-9201-4c52-b0b4-3b04ee6df46f" />
-
 
