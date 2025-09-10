@@ -1,4 +1,4 @@
-// ✅ Replace with your actual FastAPI base URL if different
+//  Replace with your actual FastAPI base URL if different
 const API_URL = "http://localhost:5000/tasks";
 
 async function loadTasks() {
@@ -51,5 +51,6 @@ async function deleteTask(id) {
   loadTasks();
 }
 
-// 🔁 Load tasks when the page starts
+//  Load tasks when the page starts
 loadTasks();
+
