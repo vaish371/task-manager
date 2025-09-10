@@ -1,3 +1,5 @@
+<img width="214" height="99" alt="Screenshot 2025-09-10 195632" src="https://github.com/user-attachments/assets/2e8a9932-c5b4-4718-a77a-b05a079663e1" />
+<img width="489" height="172" alt="Screenshot 2025-09-10 195545" src="https://github.com/user-attachments/assets/79a24c85-d4f2-4351-8497-f51d1258408e" />
 # task-manager
 
 A simple Task Manager app to **Add, Edit, and Delete tasks**.  
